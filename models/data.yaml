@@ -1,0 +1,7 @@
+train: /content/gdrive/MyDrive/scooter-parking-detector/dataset/yolo/train
+val: /content/gdrive/MyDrive/scooter-parking-detector/dataset/yolo/val
+test: /content/gdrive/MyDrive/scooter-parking-detector/dataset/yolo/test
+
+# 클래스 이름 정의
+names:
+  0: 'scooter'
